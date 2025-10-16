@@ -10,6 +10,9 @@ tour.name = Novo Airão 360°
 
 ## Skin
 
+### Multiline Text
+HTMLText_FD42A82D_EC3F_202F_41E3_CF85648E6045.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
@@ -17,9 +20,9 @@ IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
 ## Media
 
 ### Title
-media_E48FD403_EAB5_DF9D_41C2_E45338B7E760.label = Rio Negro
-media_E4B26C9A_EAB5_C8AF_41E5_7D41648FFB4E.label = Trilha
-media_E50E2B05_EAB5_49A3_41CF_F340929EF286.label = Gruta
+media_E48FD403_EAB5_DF9D_41C2_E45338B7E760.label = VÍDEO 360° NAVEGANDO
+media_E4B26C9A_EAB5_C8AF_41E5_7D41648FFB4E.label = VÍDEO 360° TRILHA
+media_E50E2B05_EAB5_49A3_41CF_F340929EF286.label = VÍDEO 360° GRUTA
 panorama_EC160298_E5DB_371A_41EB_EC810EF30C6E.label = CAMINHO GRUTA DO MADADÁ
 panorama_EC19165B_E5D5_1F1E_41DA_B911048691E1.label = RUÍNAS DO VELHO AIRÃO
 panorama_EC195B28_E5D5_F53A_41E4_A76C89F723FF.label = GRUTA DO MADADÁ
@@ -42,6 +45,7 @@ HotspotPanoramaOverlayArea_F8114988_EBF5_48AB_41DC_7C6173AB4F03.toolTip = IR PAR
 HotspotPanoramaOverlayArea_F811E8D6_EBAC_C8A7_41C5_E24FC23CBE3E.toolTip = IR PARA VÍDEO 360°
 HotspotPanoramaOverlayArea_F8181DF6_EBF7_4867_41B8_091BE12BB4CC.toolTip = RUÍNAS DO VELHO AIRÃO
 HotspotPanoramaOverlayArea_F81C27D3_EBF3_78BC_41B9_6342DAD382FF.toolTip = RUÍNAS DO VELHO AIRÃO
+HotspotPanoramaOverlayArea_F81C92DC_EB95_58A4_41E9_4E7208A172FC.toolTip = SAIR
 HotspotPanoramaOverlayArea_F82163B0_EBED_78FB_41EC_E37AB3DB0407.toolTip = IR PARA AIRÃO VELHO
 HotspotPanoramaOverlayArea_F83087C5_EB94_D8A4_41D8_6494540BABEB.toolTip = RUÍNAS DO VELHO AIRÃO
 HotspotPanoramaOverlayArea_F860850F_EB93_D9A4_41D6_CCD9A6238EE8.toolTip = RUÍNAS DO VELHO AIRÃO
@@ -51,3 +55,5 @@ HotspotPanoramaOverlayArea_F8915296_EB93_58A7_41EB_268A6AB0BF58.toolTip = GRUTA 
 HotspotPanoramaOverlayArea_F8FBBFEA_EBF5_C86F_4197_FA5C6D5937EC.toolTip = RUÍNAS DO VELHO AIRÃO
 HotspotPanoramaOverlayArea_F9C154BC_EB95_D8EB_41E4_BD99EB8FFDE3.toolTip = CONHEÇA GRUTA MADADÁ
 HotspotPanoramaOverlayArea_FAA0F3E2_EB93_589F_4187_A2F2A3A4D608.toolTip = NAVEGUE PELO RIO
+HotspotPanoramaOverlayArea_FEF428CC_EBFC_C8A4_41CE_E57925BB1C2A.toolTip = CLIQUE PARA SAIR
+HotspotPanoramaOverlayArea_FEF458CD_EBFC_C8A4_41D0_D7C82624C98F.toolTip = CLIQUE PARA SAIR

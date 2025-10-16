@@ -1,8 +1,8 @@
 {
- "name": "Novo Airão 360°",
- "start_url": "index.htm",
- "description": "Virtual Tour Novo Airão",
  "background_color": "#FFFFFF",
+ "name": "Novo Airão 360°",
+ "description": "Virtual Tour Novo Airão",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "display": "fullscreen"
 }
